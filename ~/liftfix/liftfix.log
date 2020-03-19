@@ -1,0 +1,17 @@
+2020-03-15 17:29:51.251  INFO 11756 --- [restartedMain] com.liu.liftfix.LiftfixApplication       : Starting LiftfixApplication on DESKTOP-JSGQGLD with PID 11756 (E:\Java\liftfix\target\classes started by Fleeko in E:\Java\liftfix)
+2020-03-15 17:29:51.251  INFO 11756 --- [restartedMain] com.liu.liftfix.LiftfixApplication       : No active profile set, falling back to default profiles: default
+2020-03-15 17:29:51.588  WARN 11756 --- [restartedMain] org.apache.tomcat.util.modeler.Registry  : The MBean registry cannot be disabled because it has already been initialised
+2020-03-15 17:29:51.666  INFO 11756 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8887 (http)
+2020-03-15 17:29:51.667  INFO 11756 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-03-15 17:29:51.668  INFO 11756 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.27]
+2020-03-15 17:29:51.693  INFO 11756 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-03-15 17:29:51.693  INFO 11756 --- [restartedMain] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 438 ms
+2020-03-15 17:29:51.710  INFO 11756 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Starting...
+2020-03-15 17:29:51.721  INFO 11756 --- [restartedMain] com.zaxxer.hikari.HikariDataSource       : HikariPool-3 - Start completed.
+2020-03-15 17:29:51.721  INFO 11756 --- [restartedMain] o.s.b.a.h2.H2ConsoleAutoConfiguration    : H2 console available at '/h2-console'. Database available at 'jdbc:h2:~/liftfix'
+2020-03-15 17:29:51.892  INFO 11756 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-03-15 17:29:51.906  INFO 11756 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2020-03-15 17:29:51.988  INFO 11756 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2020-03-15 17:29:52.002  INFO 11756 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8887 (http) with context path ''
+2020-03-15 17:29:52.003  INFO 11756 --- [restartedMain] com.liu.liftfix.LiftfixApplication       : Started LiftfixApplication in 0.86 seconds (JVM running for 886.974)
+2020-03-15 17:29:52.005  INFO 11756 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
